@@ -4,7 +4,7 @@ A looping, animated preview of Recall — Your Second Brain for IT, built as a s
 
 Live: https://deadwayz.github.io/recall-showcase/
 
-Recall showcase preview
+![recall showcase preview](recall.gif)
 
 Recall was built to solve a common IT knowledge problem: scattered information, repeated troubleshooting, and time wasted searching for solutions that already exist.
 
