@@ -2,7 +2,7 @@
 
 A looping, animated preview of Recall — Your Second Brain for IT, built as a single self-contained HTML/CSS/JS showcase page (no build step, no dependencies besides Google Fonts).
 
-Live: 
+Live: https://deadwayz.github.io/recall-showcase/
 
 Recall showcase preview
 
